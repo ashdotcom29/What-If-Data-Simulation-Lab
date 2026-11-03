@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+experiment_history.json
+*.csv
+!data/sample_student_data.csv
